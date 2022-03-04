@@ -2,4 +2,11 @@
   --app-physical-color: green;
   --app-emotional-color: red;
   --app-intellectual-color: blue;
+
+  --ion-color-primary: #00a8a5;
+  --ion-color-primary-rgb: 0, 168, 165;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #009491;
+  --ion-color-primary-tint: #1ab1ae;
 }
